@@ -34,7 +34,6 @@ restApi3
 ```
 
 - GET
-
   - posts 전체 데이터 조회
     http://localhost/restApi3/api/post/read.php
   - posts 싱글 데이터 조회
@@ -43,7 +42,6 @@ restApi3
     http://localhost/restApi3/api/category/read.php
 
 - POST
-
   - posts 데이터 생성
     http://localhost/restApi3/api/post/create.php
   - {
@@ -54,7 +52,6 @@ restApi3
     }
 
 - PUT
-
   - posts 데이터 업데이트
     http://localhost/restApi3/api/post/update.php
   - {
@@ -67,6 +64,7 @@ restApi3
 
 - DELETE
   - posts 데이터 삭제
-    {
+    http://localhost/restApi3/api/post/delete.php
+  - {
     "id": 4
     }
