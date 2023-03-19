@@ -33,6 +33,7 @@ restApi3
 └─ README.md
 ```
 
+## REST API
 - GET
   - posts 전체 데이터 조회
     http://localhost/restApi3/api/post/read.php
@@ -68,3 +69,6 @@ restApi3
   - {
     "id": 4
     }
+
+## MySQL 테이블
+![sql](sql.png)
