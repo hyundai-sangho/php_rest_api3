@@ -78,3 +78,9 @@ restApi3
 2. XAMPP 8.1.2
 3. Visual Studio Code
 4. Postman
+
+## 코드 사용법
+1. GIT CLONE 또는 ZIP 파일 다운로드
+2. XAMPP/htdocs 폴더 안에 다운 받은 코드 풀기
+3. XAMPP Control Panel 실행 후 Apache와 MySQL Start
+4. Postman 실행 후에 README에 써있는 GET, POST, PUT, DELETE API 테스트
