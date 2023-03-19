@@ -72,3 +72,9 @@ restApi3
 
 ## MySQL 테이블
 ![sql](sql.png)
+
+## 개발 환경
+1. 윈도우 10 프로
+2. XAMPP 8.1.2
+3. Visual Studio Code
+4. Postman
